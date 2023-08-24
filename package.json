@@ -1,0 +1,19 @@
+{
+  "name": "vba-questionnaire-helper",
+  "version": "0.0.1",
+  "description": "this user form helps you to process your survey results easier",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saimon398/VBA-Questionnaire-Helper.git"
+  },
+  "author": "otdameskapizm <aleksborislavskij@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Saimon398/VBA-Questionnaire-Helper/issues"
+  },
+  "homepage": "https://github.com/Saimon398/VBA-Questionnaire-Helper#readme"
+}
