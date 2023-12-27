@@ -1,23 +1,21 @@
-## Questionnaire Helper
-### VBA-UserForm that helps you to make your questionnaire processing easier 
+## Помощник Анкетирования
+### Пользовательская форма, написанная на VBA, помогающая в обработке анкет
 
-#### Hey there! 
+#### Привет! 
 
-Say hello to our awesome Questionnaire Helper – the ultimate tool to make dealing with surveys a breeze! Tired of the survey shuffle? Our app is here to save the day.Imagine creating, sending, and sorting surveys without breaking a sweat. It's like magic – just a lot more techy and a lot less hocus-pocus. Dive into the world of stress-free survey processing and analysis, all wrapped up in a super user-friendly package. 
+Данная пользовательская форма была написана мной в рамках моих рабочих задач, так как часто приходилось сталкиваться с обработкой результатов пользовательских анкет. Смысл ее работы очень простой - сначала необходимо сформировать вопросы для анкеты, а потом уже при помощи пользовательской формы выбрать корректные ответы на вопросы и обработать результаты в наиболее удобном стиле 
 
-## Requirements
+## Требования
 
-This user form requires from user the following steps for a proper work:
+Для полноценной работы пользовательской формы, необходимо соблюдать следующие требования:
 
-- Windows
-- Installation of Microsoft Scripting Runtime in project
-- Installation of Microsoft Visual Basic for Applications Extensibility
+- Windows (на MacOS нет поддержки UserForm)
+- Установка библиотеки Microsoft Scripting Runtime в проект
+- Установка Microsoft Visual Basic for Applications Extensibility
 
+## Как использовать?
 
-
-## How To Use
-
-In [app-file](https://github.com/Saimon398/VBA-Questionnaire-Helper/blob/main/VBA-Questionnaire-Helper.xlsm)  you will find detailed guide how to use this user form properly. Hope, it will help you!
+В [данном файле](https://github.com/Saimon398/VBA-Questionnaire-Helper/blob/main/VBA-Questionnaire-Helper.xlsm) будет приложена инструкция, как можно использовать данную форму. Надеюсь, что она сможет принести пользу в работу также, как она принесла ее при выполнении моих собственных задач
 
 
 
